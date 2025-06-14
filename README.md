@@ -36,8 +36,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic)
 ![Java](https://img.shields.io/badge/Java-B07219?logo=openjdk&logoColor=white&style=plastic)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=plastic)
-![Dart](https://img.shields.io/badge/Dart-00B4AB?logo=dart&logoColor=white&style=plastic)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic)
 
 ---
@@ -71,6 +69,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)
+![Cursor](https://img.shields.io/badge/Cursor-black?logoColor=white&style=plastic)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-purple?logo=intellijidea&logoColor=white&style=plastic)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=plastic)
