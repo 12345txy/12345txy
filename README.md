@@ -25,12 +25,27 @@
 
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
+
+## 📖 Publications
+
+### Conference Papers
+
+**[1] Towards world simulator: Crafting physical commonsense-based benchmark for video generation**  
+*International Conference on Machine Learning (**ICML**), 2025 (Poster)*  
+[![arXiv](https://img.shields.io/badge/arXiv-2410.05363-b31b1b.svg)](https://arxiv.org/abs/2410.05363) [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://phygenbench123.github.io/) [![Citations](https://img.shields.io/badge/Citations-26-blue.svg)](https://scholar.google.com/scholar?q=Towards+world+simulator+Crafting+physical+commonsense+based+benchmark+for+video+generation)
+
+> **Abstract:** We propose *PhyGenBench*, a comprehensive benchmark for evaluating the physical commonsense understanding capabilities of Text-to-Video (T2V) models, along with a three-tier hierarchical evaluation framework *PhyGenEval*.
+
+
+<!-- ########################################## 分割 ########################################## -->
 
 <div align="center" >
 
+
+
 <!--  skill badge 技能徽章 -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
 
 ### 💻 编程语言 & 技术栈
 
@@ -99,6 +114,11 @@
 
 </div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
+
+<!-- ########################################## 学术发表 ########################################## -->
+
+
+---
 
 <!--START_SECTION:waka-->
 
