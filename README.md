@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Stay+hungry%2C+stay+hopeful+and+stay+curious+about+AI!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Stay+hungry+and+stay+curious+about+AI!)](https://git.io/typing-svg)
 
 
 </div>
@@ -32,25 +32,51 @@
 
 <!--  skill badge 技能徽章 -->
 
-### 💪 我的技能
+### 💻 编程语言 & 技术栈
 
-![Java Badge](https://img.shields.io/badge/Java-B07219?logo=openjdk&logoColor=fff&style=flat)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=fff&style=flat)
-![Dart Badge](https://img.shields.io/badge/Dart-00B4AB?logo=dart&logoColor=fff&style=flat)
-![MySQL Badge](https://img.shields.io/badge/MySQL-1A5762?logo=mysql&logoColor=fff&style=flat)
-![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-BA5000?logo=mongodb&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic)
+![Java](https://img.shields.io/badge/Java-B07219?logo=openjdk&logoColor=white&style=plastic)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=plastic)
+![Dart](https://img.shields.io/badge/Dart-00B4AB?logo=dart&logoColor=white&style=plastic)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic)
 
-### 🧰 常用的工具
+---
 
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Idea Badge](https://img.shields.io/badge/IDEA-000000?logo=Intellij%20IDEA&logoColor=fff&style=flat)
-![Goland Badge](https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=fff&style=flat)
+### 🧠 AI / 数据科学
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=plastic)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=plastic)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic)
+![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=plastic)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=plastic)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=plastic)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=&style=plastic)
+
+---
+
+### 🌐 Web前后端开发
+
+![Vue.js](https://img.shields.io/badge/Vue\.js-4FC08D?logo=vue\.js&logoColor=white&style=plastic)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white&style=plastic)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=plastic)
+
+
+---
+
+### 🔧 工具链与平台
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=plastic)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-purple?logo=intellijidea&logoColor=white&style=plastic)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=plastic)
+
+
+
 
 <!-- ![Pycharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat) -->
 
