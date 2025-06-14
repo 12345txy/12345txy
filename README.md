@@ -25,7 +25,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" /> -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
 
 <div align="center" >
 
@@ -57,9 +57,9 @@
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/icon.png" /></div> -->
 <!-- <img src="https://www.loliapi.com/acg?id=157" /></div> -->
-<picture>
+<!-- <picture>
   <img alt="acg-img" src="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/acg/acg.webp" />
-</picture>
+</picture> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
