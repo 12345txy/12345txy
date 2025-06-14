@@ -63,7 +63,7 @@
 
 
 
-### 🔧 工具链与平台
+### 🔧 工具链与IDE
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=plastic)
