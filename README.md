@@ -84,7 +84,7 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/icon.png" /></div> -->
 <!-- <img src="https://www.loliapi.com/acg?id=157" /></div> -->
 <picture>
-  <img alt="acg-img" src=./img/3.gif />
+  <img alt="acg-img" src="./img/3.gif" width="100%" />
 </picture>
 
 <!-- ########################################## 分割 ########################################## -->
