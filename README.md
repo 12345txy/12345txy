@@ -38,7 +38,7 @@
 ![Java](https://img.shields.io/badge/Java-B07219?logo=openjdk&logoColor=white&style=plastic)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic)
 
----
+
 
 ### 🧠 AI / 数据科学
 
@@ -50,7 +50,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=plastic)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=&style=plastic)
 
----
+
 
 ### 🌐 Web前后端开发
 
@@ -61,7 +61,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=plastic)
 
 
----
+
 
 ### 🔧 工具链与平台
 
