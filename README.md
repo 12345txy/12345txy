@@ -1,25 +1,26 @@
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://www.chenxutalk.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=fmt.Println(%22Hello%2C%20World%22);System.out.println(%22Hello%2C%20World%22);print(%22Hello%2C%20World%22)&center=true&size=25" alt="Typing SVG" />
-    </a>
-  </div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Stay+hungry%2C+stay+hopeful+and+stay+curious+about+AI!)](https://git.io/typing-svg)
+
+
+</div>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://www.chenxutalk.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <!-- <a href="https://www.chenxutalk.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp; -->
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Guo-Chenxu&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=12345txy&label=Views&color=0e75b6&style=plastic" alt="访问量统计" />
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Guo-Chenxu/Guo-Chenxu/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12345txy/12345txy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/12345txy/12345txy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/12345txy/12345txy/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
