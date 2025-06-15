@@ -58,11 +58,12 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=plastic)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=plastic)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=&style=plastic)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=plastic)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=plastic)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=plastic)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=&style=plastic)
+
 
 
 
