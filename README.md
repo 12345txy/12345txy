@@ -32,7 +32,7 @@
 
 **[1] Towards world simulator: Crafting physical commonsense-based benchmark for video generation**  
 *International Conference on Machine Learning (**ICML**), 2025 (Poster)*  
-[![arXiv](https://img.shields.io/badge/arXiv-2410.05363-b31b1b.svg)](https://arxiv.org/abs/2410.05363) [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://phygenbench123.github.io/) [![Citations](https://img.shields.io/badge/Citations-28-blue.svg)](https://scholar.google.com/scholar?q=Towards+world+simulator+Crafting+physical+commonsense+based+benchmark+for+video+generation)
+[![arXiv](https://img.shields.io/badge/arXiv-2410.05363-b31b1b.svg)](https://arxiv.org/abs/2410.05363) [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://phygenbench123.github.io/) [![Citations](https://img.shields.io/badge/Citations-32-blue.svg)](https://scholar.google.com/scholar?q=Towards+world+simulator+Crafting+physical+commonsense+based+benchmark+for+video+generation)
 
 > **Abstract:** We propose *PhyGenBench*, a comprehensive benchmark for evaluating the physical commonsense understanding capabilities of Text-to-Video (T2V) models, along with a three-tier hierarchical evaluation framework *PhyGenEval*.
 
