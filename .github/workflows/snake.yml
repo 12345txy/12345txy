@@ -9,6 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk@v3
         with:
@@ -17,10 +22,32 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Setup git config
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+      - name: Fetch and checkout output branch
+        run: |
+          git fetch origin output || echo "Output branch does not exist, will create it"
+          git checkout output 2>/dev/null || git checkout -b output
+          # 保留现有文件（如雷达图）
+          git checkout HEAD -- . 2>/dev/null || true
+
+      - name: Copy snake files and preserve existing files
+        run: |
+          # 复制新生成的文件，保留现有文件
+          cp dist/github-contribution-grid-snake.svg . 2>/dev/null || true
+          cp dist/github-contribution-grid-snake-dark.svg . 2>/dev/null || true
+
+      - name: Commit and push snake files
+        run: |
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update GitHub contribution grid snake [skip ci]"
+            git push origin output
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

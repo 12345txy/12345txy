@@ -2,19 +2,19 @@ name: Generate GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 0 点运行一次
-  workflow_dispatch:      # 支持手动触发
+    - cron: "0 0 * * *" # 每天 UTC 0 点运行一次
+  workflow_dispatch: # 支持手动触发
   push:
     paths:
-      - '.github/workflows/radar-chart.yml'
-      - 'scripts/generate_radar_chart.py'
-      - 'dist/skills-radar-chart.svg'
+      - ".github/workflows/radar-chart.yml"
+      - "scripts/generate_radar_chart.py"
+      - "dist/skills-radar-chart.svg"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch for scripts
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -22,7 +22,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
@@ -32,10 +32,29 @@ jobs:
         run: |
           python scripts/generate_radar_chart.py
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Setup git config
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+      - name: Fetch and checkout output branch
+        run: |
+          git fetch origin output || echo "Output branch does not exist, will create it"
+          git checkout output 2>/dev/null || git checkout -b output
+
+      - name: Copy radar chart and preserve existing files
+        run: |
+          # 保留现有文件，只更新雷达图
+          cp dist/skills-radar-chart.svg . || true
+
+      - name: Commit and push radar chart
+        run: |
+          git add skills-radar-chart.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update skills radar chart [skip ci]"
+            git push origin output
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
