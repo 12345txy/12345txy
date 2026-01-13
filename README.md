@@ -25,6 +25,10 @@
 </div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
 
+## About Me
+
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github)
+
 ## 📖 Publications
 
 ### Conference Papers
@@ -105,6 +109,16 @@ _International Conference on Machine Learning (**ICML**), 2025 (Poster)_
     </td>
   </tr>
 </table>
+
+</div>
+
+<!-- ########################################## 技能雷达图 ########################################## -->
+
+<div align="center">
+
+### 📊 技能雷达图
+
+![Skills Radar Chart](https://raw.githubusercontent.com/12345txy/12345txy/output/skills-radar-chart.svg)
 
 </div>
 
