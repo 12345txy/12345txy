@@ -116,10 +116,6 @@ _International Conference on Machine Learning (**ICML**), 2025 (Poster)_
 
 <div align="center">
 
-### 📊 技能雷达图
-
-![Skills Radar Chart](https://raw.githubusercontent.com/12345txy/12345txy/output/skills-radar-chart.svg)
-
 </div>
 
 <!-- ########################################## WakaTime 统计 ########################################## -->
