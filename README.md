@@ -39,27 +39,19 @@
 _International Conference on Machine Learning (**ICML**), 2025 (Poster)_  
 [![arXiv](https://img.shields.io/badge/arXiv-2410.05363-b31b1b.svg)](https://arxiv.org/abs/2410.05363) [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://phygenbench123.github.io/) [![Citations](https://img.shields.io/badge/Citations-213-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:u5HHmVD_uO8C)
 
-> **Abstract:** We propose _PhyGenBench_, a comprehensive benchmark for evaluating the physical commonsense understanding capabilities of Text-to-Video (T2V) models, along with a three-tier hierarchical evaluation framework _PhyGenEval_.
-
 ### Preprints
 
 **[2] Harness-Bench: Evaluating Agent Harnesses across Models and Realistic Workflows**  
 _Yilun Yao, **Xinyu Tan**, Chao-Hsuan Liu, et al. arXiv preprint, 2026_  
 [![arXiv](https://img.shields.io/badge/arXiv-2605.27922-b31b1b.svg)](https://arxiv.org/abs/2605.27922) [![Citations](https://img.shields.io/badge/Citations-67-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:9yKSN-GCB0IC)
 
-> **Abstract:** We introduce _Harness-Bench_, a diagnostic benchmark of 106 sandboxed tasks for evaluating how the agent harness (context, tools, state, permissions, recovery) affects LLM agents across model backends; over 5,194 trajectories, performance varies substantially across model–harness pairings.
-
 **[3] ArborMem: Navigating Interaction States with Memory Forests**  
 _Zongwei Lv, Yuemeng Xu, Yilun Yao, Siyi Ding, **Xinyu Tan**, et al. arXiv preprint, 2026_  
 [![arXiv](https://img.shields.io/badge/arXiv-2608.17534-b31b1b.svg)](https://arxiv.org/abs/2608.17534) [![Citations](https://img.shields.io/badge/Citations-0-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:2osOgNQ5qMEC)
 
-> **Abstract:** We introduce _ArborMem_, an online memory framework that represents a long-running conversation as a navigable forest of interaction states, together with _BranchMemEval_, a diagnostic benchmark for interleaved and resumable interaction trajectories.
-
 **[4] Fairy2i: Training Complex LLMs from Real LLMs with All Parameters in {±1, ±i}**  
 _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_  
 [![arXiv](https://img.shields.io/badge/arXiv-2512.02901-b31b1b.svg)](https://arxiv.org/abs/2512.02901) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/PKULab1806/Fairy2i-W2) [![Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/PKU-DS-LAB/Fairy2i-W2) [![Citations](https://img.shields.io/badge/Citations-0-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:d1gkVwhDpl0C)
-
-> **Abstract:** We present _Fairy2i_, which converts pre-trained real-valued LLMs into an equivalent widely-linear complex form for phase-aware quantization with weights in {±1, ±i}, restoring LLaMA-2 7B at an effective 2-bit precision to near full-precision quality.
 
 <!-- ########################################## 分割 ########################################## -->
 
@@ -68,40 +60,46 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
 <!--  skill badge 技能徽章 -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
 
-### 💻 编程语言 & 技术栈
+### 🛠️ 技术栈
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic)
-![Java](https://img.shields.io/badge/Java-B07219?logo=openjdk&logoColor=white&style=plastic)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic)
-
-### 🧠 AI / 数据科学
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=plastic)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=plastic)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=&style=plastic)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic)
-![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=plastic)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=plastic)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=plastic)
-
-### 🌐 Web 前后端开发
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=plastic)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white&style=plastic)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=plastic)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=plastic)
-
-### 🔧 工具链与 IDE
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=plastic)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)
-![Cursor](https://img.shields.io/badge/Cursor-black?logoColor=white&style=plastic)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-purple?logo=intellijidea&logoColor=white&style=plastic)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=plastic)
+<table>
+  <tr>
+    <td align="center" width="150">💻<br/><b>编程语言</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/skills/lang-dark.svg" />
+        <img alt="Python · Java · C++" title="Python · Java · C++" src="./img/skills/lang-light.svg" height="44" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">🧠<br/><b>AI / 数据科学</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/skills/ai-dark.svg" />
+        <img alt="PyTorch · LangChain · Hugging Face · scikit-learn · NumPy · pandas · Matplotlib" title="PyTorch · LangChain · Hugging Face · scikit-learn · NumPy · pandas · Matplotlib" src="./img/skills/ai-light.svg" height="44" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">🌐<br/><b>Web 前后端</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/skills/web-dark.svg" />
+        <img alt="Vue · Vuetify · Spring Boot · MySQL · Redis" title="Vue · Vuetify · Spring Boot · MySQL · Redis" src="./img/skills/web-light.svg" height="44" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">🔧<br/><b>工具链与 IDE</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/skills/tools-dark.svg" />
+        <img alt="Git · GitHub · Docker · Linux · Cursor · VS Code · IntelliJ IDEA · LaTeX" title="Git · GitHub · Docker · Linux · Cursor · VS Code · IntelliJ IDEA · LaTeX" src="./img/skills/tools-light.svg" height="44" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <!-- ![Pycharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat) -->
 
