@@ -31,13 +31,35 @@
 
 ## 📖 Publications
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations%20280-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gGm2-SwAAAAJ&hl=en)
+
 ### Conference Papers
 
 **[1] Towards world simulator: Crafting physical commonsense-based benchmark for video generation**  
 _International Conference on Machine Learning (**ICML**), 2025 (Poster)_  
-[![arXiv](https://img.shields.io/badge/arXiv-2410.05363-b31b1b.svg)](https://arxiv.org/abs/2410.05363) [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://phygenbench123.github.io/) [![Citations](https://img.shields.io/badge/Citations-57-blue.svg)](https://scholar.google.com/scholar?q=Towards+world+simulator+Crafting+physical+commonsense+based+benchmark+for+video+generation)
+[![arXiv](https://img.shields.io/badge/arXiv-2410.05363-b31b1b.svg)](https://arxiv.org/abs/2410.05363) [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://phygenbench123.github.io/) [![Citations](https://img.shields.io/badge/Citations-213-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:u5HHmVD_uO8C)
 
 > **Abstract:** We propose _PhyGenBench_, a comprehensive benchmark for evaluating the physical commonsense understanding capabilities of Text-to-Video (T2V) models, along with a three-tier hierarchical evaluation framework _PhyGenEval_.
+
+### Preprints
+
+**[2] Harness-Bench: Evaluating Agent Harnesses across Models and Realistic Workflows**  
+_Yilun Yao, **Xinyu Tan**, Chao-Hsuan Liu, et al. arXiv preprint, 2026_  
+[![arXiv](https://img.shields.io/badge/arXiv-2605.27922-b31b1b.svg)](https://arxiv.org/abs/2605.27922) [![Citations](https://img.shields.io/badge/Citations-67-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:9yKSN-GCB0IC)
+
+> **Abstract:** We introduce _Harness-Bench_, a diagnostic benchmark of 106 sandboxed tasks for evaluating how the agent harness (context, tools, state, permissions, recovery) affects LLM agents across model backends; over 5,194 trajectories, performance varies substantially across model–harness pairings.
+
+**[3] ArborMem: Navigating Interaction States with Memory Forests**  
+_Zongwei Lv, Yuemeng Xu, Yilun Yao, Siyi Ding, **Xinyu Tan**, et al. arXiv preprint, 2026_  
+[![arXiv](https://img.shields.io/badge/arXiv-2608.17534-b31b1b.svg)](https://arxiv.org/abs/2608.17534) [![Citations](https://img.shields.io/badge/Citations-0-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:2osOgNQ5qMEC)
+
+> **Abstract:** We introduce _ArborMem_, an online memory framework that represents a long-running conversation as a navigable forest of interaction states, together with _BranchMemEval_, a diagnostic benchmark for interleaved and resumable interaction trajectories.
+
+**[4] Fairy2i: Training Complex LLMs from Real LLMs with All Parameters in {±1, ±i}**  
+_Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_  
+[![arXiv](https://img.shields.io/badge/arXiv-2512.02901-b31b1b.svg)](https://arxiv.org/abs/2512.02901) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/PKULab1806/Fairy2i-W2) [![Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/PKU-DS-LAB/Fairy2i-W2) [![Citations](https://img.shields.io/badge/Citations-0-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:d1gkVwhDpl0C)
+
+> **Abstract:** We present _Fairy2i_, which converts pre-trained real-valued LLMs into an equivalent widely-linear complex form for phase-aware quantization with weights in {±1, ±i}, restoring LLaMA-2 7B at an effective 2-bit precision to near full-precision quality.
 
 <!-- ########################################## 分割 ########################################## -->
 
