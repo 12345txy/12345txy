@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&height=48&lines=Hi+there%2C+I'm+Xinyu+Tan;Stay+hungry%2C+hopeful+and+curious+about+AI!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=720&height=48&lines=Hi+there%2C+I'm+Xinyu+Tan;Stay+hungry%2C+hopeful+and+curious+about+AI!" alt="Typing SVG" /></a>
 
 <a href="https://scholar.google.com/citations?user=gGm2-SwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <img src="https://komarev.com/ghpvc/?username=12345txy&label=Views&color=0e75b6&style=flat-square" alt="访问量统计" />
@@ -50,7 +50,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
 
 <table>
   <tr>
-    <td align="center" width="120"><b>编程语言</b></td>
+    <td align="center" width="140"><b>编程语言</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/lang-dark.svg" />
@@ -59,7 +59,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
     </td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>AI / 数据科学</b></td>
+    <td align="center" width="140"><b>AI / 数据科学</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/ai-dark.svg" />
@@ -68,7 +68,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
     </td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>Web 前后端</b></td>
+    <td align="center" width="140"><b>Web 前后端</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/web-dark.svg" />
@@ -77,7 +77,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
     </td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>工具链</b></td>
+    <td align="center" width="140"><b>工具链</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/tools-dark.svg" />
@@ -98,11 +98,11 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=github_dark" />
-  <img alt="GitHub Stats" src="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=default" height="165" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=default" height="140" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=github_dark" />
-  <img alt="Top Languages" src="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=default" height="165" />
+  <img alt="Top Languages" src="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=default" height="140" />
 </picture>
 
 <!--START_SECTION:waka-->
