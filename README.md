@@ -1,33 +1,26 @@
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=435&lines=Stay+hungry%2C+hopeful+and+curious+about+AI!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&height=48&lines=Hi+there%2C+I'm+Xinyu+Tan;Stay+hungry%2C+hopeful+and+curious+about+AI!" alt="Typing SVG" /></a>
 
-</div>
-
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <!-- <a href="https://www.chenxutalk.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp; -->
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=12345txy&label=Views&color=0e75b6&style=plastic" alt="访问量统计" />
-  </div>
+<a href="https://scholar.google.com/citations?user=gGm2-SwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<img src="https://komarev.com/ghpvc/?username=12345txy&label=Views&color=0e75b6&style=flat-square" alt="访问量统计" />
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12345txy/12345txy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/12345txy/12345txy/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/12345txy/12345txy/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
+
 </div>
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
 
-## About Me
+## 👋 About Me
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github_dark" />
+  <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github" />
+</picture>
 
 ## 📖 Publications
 
@@ -53,18 +46,11 @@ _Zongwei Lv, Yuemeng Xu, Yilun Yao, Siyi Ding, **Xinyu Tan**, et al. arXiv prepr
 _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_  
 [![arXiv](https://img.shields.io/badge/arXiv-2512.02901-b31b1b.svg)](https://arxiv.org/abs/2512.02901) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/PKULab1806/Fairy2i-W2) [![Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/PKU-DS-LAB/Fairy2i-W2) [![Citations](https://img.shields.io/badge/Citations-0-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:d1gkVwhDpl0C)
 
-<!-- ########################################## 分割 ########################################## -->
-
-<div align="center" >
-
-<!--  skill badge 技能徽章 -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
-
-### 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="150">💻<br/><b>编程语言</b></td>
+    <td align="center" width="120"><b>编程语言</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/lang-dark.svg" />
@@ -73,7 +59,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">🧠<br/><b>AI / 数据科学</b></td>
+    <td align="center" width="120"><b>AI / 数据科学</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/ai-dark.svg" />
@@ -82,7 +68,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">🌐<br/><b>Web 前后端</b></td>
+    <td align="center" width="120"><b>Web 前后端</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/web-dark.svg" />
@@ -91,7 +77,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">🔧<br/><b>工具链与 IDE</b></td>
+    <td align="center" width="120"><b>工具链</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/tools-dark.svg" />
@@ -101,49 +87,35 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
   </tr>
 </table>
 
-<!-- ![Pycharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat) -->
-
-<!-- just img 图片 -->
-
-<!-- <img src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/icon.png" /></div> -->
-<!-- <img src="https://www.loliapi.com/acg?id=157" /></div> -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
-<picture>
+<div align="center">
+  <br/>
   <img alt="acg-img" src="./img/3.gif" width="100%" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=github_dark" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=default" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=github_dark" />
+  <img alt="Top Languages" src="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=default" height="165" />
 </picture>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
-</div>
-
-<div align="center">
-
-<!-- GitHub 数据统计 -->
-<table>
-  <tr>
-    <td>
-      <img height="150px" src="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    </td>
-    <td>
-      <img height="150px" src="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- ########################################## WakaTime 统计 ########################################## -->
 <!--START_SECTION:waka-->
-
-<div align="center">
-
 <!-- 如果 WakaTime 统计无法显示，请检查：
 1. WakaTime 个人资料是否设置为公开：https://wakatime.com/settings/profile
 2. 确认 WakaTime 用户名是否正确（可能与 GitHub 用户名不同）
 3. 如需配置 API Key，在 Vercel 环境变量中添加 WAKATIME_API_KEY -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api/wakatime?username=12345txy&layout=compact&langs_count=8&custom_title=WakaTime%20Coding%20Time&hide_border=true&bg_color=00000000&theme=github_dark" />
+  <img alt="WakaTime stats" src="https://github-readme-stats-blue-eight-47.vercel.app/api/wakatime?username=12345txy&layout=compact&langs_count=8&custom_title=WakaTime%20Coding%20Time&hide_border=true&bg_color=00000000&theme=default" width="490" />
+</picture>
+<!--END_SECTION:waka-->
 
-[![WakaTime stats](https://github-readme-stats-blue-eight-47.vercel.app/api/wakatime?username=12345txy&hide_title=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
 
 </div>
-
-<!--END_SECTION:waka-->
