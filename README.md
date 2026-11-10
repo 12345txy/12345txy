@@ -15,14 +15,14 @@
 
 </div>
 
-## 👋 About Me
+## <img src="./img/icons/person.svg" height="26" alt="" /> About Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github_dark" />
   <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github" />
 </picture>
 
-## 📖 Publications
+## <img src="./img/icons/book.svg" height="26" alt="" /> Publications
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations%20280-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gGm2-SwAAAAJ&hl=en)
 
@@ -46,7 +46,7 @@ _Zongwei Lv, Yuemeng Xu, Yilun Yao, Siyi Ding, **Xinyu Tan**, et al. arXiv prepr
 _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_  
 [![arXiv](https://img.shields.io/badge/arXiv-2512.02901-b31b1b.svg)](https://arxiv.org/abs/2512.02901) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/PKULab1806/Fairy2i-W2) [![Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/PKU-DS-LAB/Fairy2i-W2) [![Citations](https://img.shields.io/badge/Citations-0-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:d1gkVwhDpl0C)
 
-## 🛠️ Tech Stack
+## <img src="./img/icons/tools.svg" height="26" alt="" /> Tech Stack
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
   <img alt="acg-img" src="./img/3.gif" width="100%" />
 </div>
 
-## 📊 GitHub Stats
+## <img src="./img/icons/graph.svg" height="26" alt="" /> GitHub Stats
 
 <div align="center">
 
