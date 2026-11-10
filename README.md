@@ -15,7 +15,7 @@
 
 </div>
 
-## <img src="./img/icons/person.svg" height="26" alt="" /> About Me
+## 👋 About Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github_dark" />
