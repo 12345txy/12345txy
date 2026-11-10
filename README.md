@@ -95,7 +95,7 @@ _Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/tools-dark.svg" />
-        <img alt="Git · GitHub · Docker · Linux · Cursor · VS Code · IntelliJ IDEA · LaTeX" title="Git · GitHub · Docker · Linux · Cursor · VS Code · IntelliJ IDEA · LaTeX" src="./img/skills/tools-light.svg" height="44" />
+        <img alt="Git · GitHub · Docker · Linux · Cursor · Codex · Claude Code · VS Code · LaTeX" title="Git · GitHub · Docker · Linux · Cursor · Codex · Claude Code · VS Code · LaTeX" src="./img/skills/tools-light.svg" height="44" />
       </picture>
     </td>
   </tr>
