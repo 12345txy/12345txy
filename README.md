@@ -1,9 +1,11 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=720&height=48&lines=Hi+there%2C+I'm+Xinyu+Tan;Stay+hungry%2C+hopeful+and+curious+about+AI!" alt="Typing SVG" /></a>
-
-<a href="https://scholar.google.com/citations?user=gGm2-SwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-<img src="https://komarev.com/ghpvc/?username=12345txy&label=Views&color=0e75b6&style=flat-square" alt="访问量统计" />
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=720&height=48&lines=Hi+there%2C+I'm+Xinyu+Tan;Stay+hungry%2C+hopeful+and+curious+about+AI!" alt="Typing SVG" /></a>
+  </p>
+  <p>
+    <a href="https://scholar.google.com/citations?user=gGm2-SwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+    <img src="https://komarev.com/ghpvc/?username=12345txy&label=Views&color=0e75b6&style=flat-square" alt="访问量统计" />
+  </p>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
