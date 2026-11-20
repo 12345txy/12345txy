@@ -28,23 +28,76 @@
 
 ### Conference Papers
 
-**[1] Towards world simulator: Crafting physical commonsense-based benchmark for video generation**  
-_International Conference on Machine Learning (**ICML**), 2025 (Poster)_  
-[![arXiv](https://img.shields.io/badge/arXiv-2410.05363-b31b1b.svg)](https://arxiv.org/abs/2410.05363) [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://phygenbench123.github.io/) [![Citations](https://img.shields.io/badge/Citations-213-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:u5HHmVD_uO8C)
+<table class="publication-list" role="presentation">
+  <tr>
+    <td class="publication-art" width="272" valign="middle">
+      <a class="publication-figure" href="./img/publications/phygenbench.webp">
+        <img src="./img/publications/phygenbench.webp" width="256" alt="PhyGenBench overview of physical laws, prompts, and text-to-video models" loading="lazy" decoding="async" />
+      </a>
+    </td>
+    <td class="publication-details" valign="middle">
+      <p class="publication-title"><strong><a href="https://arxiv.org/abs/2410.05363">Towards world simulator: Crafting physical commonsense-based benchmark for video generation</a></strong></p>
+      <p class="publication-meta"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2025 (Poster)</em></p>
+      <p class="publication-links">
+        <a href="https://arxiv.org/abs/2410.05363">arXiv</a>
+        <a href="https://phygenbench123.github.io/">Project page</a>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=gGm2-SwAAAAJ&amp;citation_for_view=gGm2-SwAAAAJ:u5HHmVD_uO8C">Citations (213)</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### Preprints
 
-**[2] Harness-Bench: Evaluating Agent Harnesses across Models and Realistic Workflows**  
-_Yilun Yao, **Xinyu Tan**, Chao-Hsuan Liu, et al. arXiv preprint, 2026_  
-[![arXiv](https://img.shields.io/badge/arXiv-2605.27922-b31b1b.svg)](https://arxiv.org/abs/2605.27922) [![Citations](https://img.shields.io/badge/Citations-67-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:9yKSN-GCB0IC)
-
-**[3] ArborMem: Navigating Interaction States with Memory Forests**  
-_Zongwei Lv, Yuemeng Xu, Yilun Yao, Siyi Ding, **Xinyu Tan**, et al. arXiv preprint, 2026_  
-[![arXiv](https://img.shields.io/badge/arXiv-2608.17534-b31b1b.svg)](https://arxiv.org/abs/2608.17534) [![Citations](https://img.shields.io/badge/Citations-0-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:2osOgNQ5qMEC)
-
-**[4] Fairy2i: Training Complex LLMs from Real LLMs with All Parameters in {±1, ±i}**  
-_Feiyu Wang, **Xinyu Tan**, Bokai Huang, et al. arXiv preprint, 2025_  
-[![arXiv](https://img.shields.io/badge/arXiv-2512.02901-b31b1b.svg)](https://arxiv.org/abs/2512.02901) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/PKULab1806/Fairy2i-W2) [![Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/PKU-DS-LAB/Fairy2i-W2) [![Citations](https://img.shields.io/badge/Citations-0-blue.svg)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGm2-SwAAAAJ&citation_for_view=gGm2-SwAAAAJ:d1gkVwhDpl0C)
+<table class="publication-list" role="presentation">
+  <tr>
+    <td class="publication-art" width="272" valign="middle">
+      <a class="publication-figure" href="./img/publications/harness-bench.webp">
+        <img src="./img/publications/harness-bench.webp" width="256" alt="Harness-Bench task construction pipeline and coverage across work categories" loading="lazy" decoding="async" />
+      </a>
+    </td>
+    <td class="publication-details" valign="middle">
+      <p class="publication-title"><strong><a href="https://arxiv.org/abs/2605.27922">Harness-Bench: Evaluating Agent Harnesses across Models and Realistic Workflows</a></strong></p>
+      <p class="publication-meta">Yilun Yao, <strong>Xinyu Tan</strong>, Chao-Hsuan Liu, et al.<br /><em>arXiv preprint, 2026</em></p>
+      <p class="publication-links">
+        <a href="https://arxiv.org/abs/2605.27922">arXiv</a>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=gGm2-SwAAAAJ&amp;citation_for_view=gGm2-SwAAAAJ:9yKSN-GCB0IC">Citations (67)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="publication-art" width="272" valign="middle">
+      <a class="publication-figure" href="./img/publications/arbormem.webp">
+        <img src="./img/publications/arbormem.webp" width="256" alt="ArborMem overview showing interaction-state localization, branch context, and evidence retrieval" loading="lazy" decoding="async" />
+      </a>
+    </td>
+    <td class="publication-details" valign="middle">
+      <p class="publication-title"><strong><a href="https://arxiv.org/abs/2608.17534">ArborMem: Navigating Interaction States with Memory Forests</a></strong></p>
+      <p class="publication-meta">Zongwei Lv, Yuemeng Xu, Yilun Yao, Siyi Ding, <strong>Xinyu Tan</strong>, et al.<br /><em>arXiv preprint, 2026</em></p>
+      <p class="publication-links">
+        <a href="https://arxiv.org/abs/2608.17534">arXiv</a>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=gGm2-SwAAAAJ&amp;citation_for_view=gGm2-SwAAAAJ:2osOgNQ5qMEC">Citations (0)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="publication-art" width="272" valign="middle">
+      <a class="publication-figure" href="./img/publications/fairy2i.webp">
+        <img src="./img/publications/fairy2i.webp" width="256" alt="Fairy2i diagram of the widely-linear transformation from real to complex weights" loading="lazy" decoding="async" />
+      </a>
+    </td>
+    <td class="publication-details" valign="middle">
+      <p class="publication-title"><strong><a href="https://arxiv.org/abs/2512.02901">Fairy2i: Training Complex LLMs from Real LLMs with All Parameters in {±1, ±i}</a></strong></p>
+      <p class="publication-meta">Feiyu Wang, <strong>Xinyu Tan</strong>, Bokai Huang, et al.<br /><em>arXiv preprint, 2025</em></p>
+      <p class="publication-links">
+        <a href="https://arxiv.org/abs/2512.02901">arXiv</a>
+        <a href="https://github.com/PKULab1806/Fairy2i-W2">Code</a>
+        <a href="https://huggingface.co/PKU-DS-LAB/Fairy2i-W2">Model</a>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=gGm2-SwAAAAJ&amp;citation_for_view=gGm2-SwAAAAJ:d1gkVwhDpl0C">Citations (0)</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## <img src="./img/icons/tools.svg" height="26" alt="" /> Tech Stack
 

@@ -1,0 +1,98 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+.markdown-body .publication-list {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.markdown-body .publication-list tr,
+.markdown-body .publication-list tr:nth-child(even) {
+  border: 0;
+  background: transparent;
+}
+
+.markdown-body .publication-list td {
+  border: 0;
+  border-bottom: 1px solid #d8dee4;
+  padding: 1rem 0;
+  vertical-align: middle;
+}
+
+.markdown-body .publication-list .publication-art {
+  width: 34%;
+  padding-right: 1.25rem;
+}
+
+.markdown-body .publication-figure {
+  display: block;
+  aspect-ratio: 16 / 9;
+  padding: 0.5rem;
+  overflow: hidden;
+  border: 1px solid #d8dee4;
+  border-radius: 0.5rem;
+  background: #fff;
+}
+
+.markdown-body .publication-figure:hover {
+  border-color: #0969da;
+}
+
+.markdown-body .publication-figure:focus-visible {
+  outline: 2px solid #0969da;
+  outline-offset: 3px;
+}
+
+.markdown-body .publication-figure img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.markdown-body .publication-list .publication-title {
+  margin: 0 0 0.35rem;
+  font-size: 1.0625rem;
+  line-height: 1.4;
+}
+
+.markdown-body .publication-title a {
+  color: inherit;
+}
+
+.markdown-body .publication-list .publication-meta {
+  margin: 0 0 0.45rem;
+  color: #57606a;
+  font-size: 0.875rem;
+}
+
+.markdown-body .publication-list .publication-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.9rem;
+  margin: 0;
+  font-size: 0.875rem;
+}
+
+@media (max-width: 40rem) {
+  .markdown-body .publication-list,
+  .markdown-body .publication-list tbody,
+  .markdown-body .publication-list tr,
+  .markdown-body .publication-list td {
+    display: block;
+    width: 100%;
+  }
+
+  .markdown-body .publication-list .publication-art {
+    width: 100%;
+    padding: 1rem 0 0;
+    border: 0;
+  }
+
+  .markdown-body .publication-list .publication-details {
+    padding-top: 0.75rem;
+  }
+}
