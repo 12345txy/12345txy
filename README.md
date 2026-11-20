@@ -37,7 +37,7 @@
     </td>
     <td class="publication-details" valign="middle">
       <p class="publication-title"><strong><a href="https://arxiv.org/abs/2410.05363">Towards world simulator: Crafting physical commonsense-based benchmark for video generation</a></strong></p>
-      <p class="publication-meta"><em>International Conference on Machine Learning (<strong>ICML</strong>), 2025 (Poster)</em></p>
+      <p class="publication-meta">Fanqing Meng, Jiaqi Liao, <strong>Xinyu Tan</strong>, Quanfeng Lu, Wenqi Shao, Kaipeng Zhang, Yu Cheng, Dianqi Li, Ping Luo<br /><em>International Conference on Machine Learning (<strong>ICML</strong>), 2025 (Poster)</em></p>
       <p class="publication-links">
         <a href="https://arxiv.org/abs/2410.05363">arXiv</a>
         <a href="https://phygenbench123.github.io/">Project page</a>
@@ -52,8 +52,8 @@
 <table class="publication-list" role="presentation">
   <tr>
     <td class="publication-art" width="272" valign="middle">
-      <a class="publication-figure" href="./img/publications/harness-bench.webp">
-        <img src="./img/publications/harness-bench.webp" width="256" alt="Harness-Bench task construction pipeline and coverage across work categories" loading="lazy" decoding="async" />
+      <a class="publication-figure" href="./img/publications/harness-bench.webp?v=2">
+        <img src="./img/publications/harness-bench.webp?v=2" width="256" alt="Harness-Bench evaluation pipeline showing a model–harness run, artifact checks, safety gates, and final scoring" loading="lazy" decoding="async" />
       </a>
     </td>
     <td class="publication-details" valign="middle">
