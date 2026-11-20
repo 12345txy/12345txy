@@ -107,7 +107,7 @@
 
 <table>
   <tr>
-    <td align="center" width="140"><b>编程语言</b></td>
+    <td align="center" width="140"><b>Programming Languages</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/lang-dark.svg" />
@@ -116,7 +116,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="140"><b>AI / 数据科学</b></td>
+    <td align="center" width="140"><b>AI / Data Science</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/ai-dark.svg" />
@@ -125,7 +125,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="140"><b>Web 前后端</b></td>
+    <td align="center" width="140"><b>Web Development</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/web-dark.svg" />
@@ -134,7 +134,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="140"><b>工具链</b></td>
+    <td align="center" width="140"><b>Developer Tools</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/tools-dark.svg" />
