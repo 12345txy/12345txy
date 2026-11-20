@@ -109,6 +109,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img alt="Five fantasy characters sharing afternoon tea" src="./img/profile-illustration.webp?v=2" width="640" loading="lazy" decoding="async" />
+</p>
+
 ## <img src="./img/icons/tools.svg" height="26" alt="" /> Tech Stack
 
 <table align="center">
@@ -149,11 +153,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <br/>
-  <img alt="Five fantasy characters sharing afternoon tea" src="./img/profile-illustration.webp" width="100%" loading="lazy" decoding="async" />
-</div>
 
 ## <img src="./img/icons/graph.svg" height="26" alt="" /> GitHub Stats
 
