@@ -100,3 +100,16 @@
     padding-top: 0.75rem;
   }
 }
+
+.markdown-body .tech-stack {
+  display: table;
+  width: 100%;
+  max-width: 40rem;
+  margin-inline: auto;
+  table-layout: fixed;
+}
+
+.markdown-body .tech-stack img {
+  height: auto;
+  max-height: 44px;
+}

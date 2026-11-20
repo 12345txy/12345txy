@@ -110,12 +110,12 @@
 </table>
 
 <p align="center">
-  <img alt="Five fantasy characters sharing afternoon tea" src="./img/profile-illustration.webp?v=2" width="640" loading="lazy" decoding="async" />
+  <img alt="Five fantasy characters sharing afternoon tea" src="./img/profile-illustration.webp?v=2" width="760" loading="lazy" decoding="async" />
 </p>
 
 ## <img src="./img/icons/tools.svg" height="26" alt="" /> Tech Stack
 
-<table align="center">
+<table class="tech-stack" align="center">
   <tr>
     <td align="center" width="140"><b>Programming Languages</b></td>
     <td align="center">
