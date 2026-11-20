@@ -37,7 +37,7 @@
     </td>
     <td class="publication-details" valign="middle">
       <p class="publication-title"><strong><a href="https://arxiv.org/abs/2410.05363">Towards world simulator: Crafting physical commonsense-based benchmark for video generation</a></strong></p>
-      <p class="publication-meta">Fanqing Meng, Jiaqi Liao, <strong>Xinyu Tan</strong>, Quanfeng Lu, Wenqi Shao, Kaipeng Zhang, Yu Cheng, Dianqi Li, Ping Luo<br /><em>International Conference on Machine Learning (<strong>ICML</strong>), 2025 (Poster)</em></p>
+      <p class="publication-meta">Fanqing Meng, Jiaqi Liao, <span class="publication-author-self">Xinyu Tan</span>, Quanfeng Lu, Wenqi Shao, Kaipeng Zhang, Yu Cheng, Dianqi Li, Ping Luo<br /><em>International Conference on Machine Learning (<strong>ICML</strong>), 2025 (Poster)</em></p>
       <p class="publication-links">
         <a href="https://arxiv.org/abs/2410.05363">arXiv</a>
         <a href="https://phygenbench123.github.io/">Project page</a>
@@ -58,7 +58,11 @@
     </td>
     <td class="publication-details" valign="middle">
       <p class="publication-title"><strong><a href="https://arxiv.org/abs/2605.27922">Harness-Bench: Evaluating Agent Harnesses across Models and Realistic Workflows</a></strong></p>
-      <p class="publication-meta">Yilun Yao, <strong>Xinyu Tan</strong>, Chao-Hsuan Liu, et al.<br /><em>arXiv preprint, 2026</em></p>
+      <p class="publication-meta">
+        Yilun Yao<sup>*</sup>, <span class="publication-author-self">Xinyu Tan</span><sup>*</sup>,
+        Chao-Hsuan Liu<sup>*</sup>, Yaoming Li<sup>*</sup>, et al.<br />
+        <em>arXiv preprint, 2026</em> · * Equal contribution
+      </p>
       <p class="publication-links">
         <a href="https://arxiv.org/abs/2605.27922">arXiv</a>
         <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=gGm2-SwAAAAJ&amp;citation_for_view=gGm2-SwAAAAJ:9yKSN-GCB0IC">Citations (67)</a>
@@ -73,7 +77,7 @@
     </td>
     <td class="publication-details" valign="middle">
       <p class="publication-title"><strong><a href="https://arxiv.org/abs/2608.17534">ArborMem: Navigating Interaction States with Memory Forests</a></strong></p>
-      <p class="publication-meta">Zongwei Lv, Yuemeng Xu, Yilun Yao, Siyi Ding, <strong>Xinyu Tan</strong>, et al.<br /><em>arXiv preprint, 2026</em></p>
+      <p class="publication-meta">Zongwei Lv, Yuemeng Xu, Yilun Yao, Siyi Ding, <span class="publication-author-self">Xinyu Tan</span>, et al.<br /><em>arXiv preprint, 2026</em></p>
       <p class="publication-links">
         <a href="https://arxiv.org/abs/2608.17534">arXiv</a>
         <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=gGm2-SwAAAAJ&amp;citation_for_view=gGm2-SwAAAAJ:2osOgNQ5qMEC">Citations (0)</a>
@@ -88,7 +92,7 @@
     </td>
     <td class="publication-details" valign="middle">
       <p class="publication-title"><strong><a href="https://arxiv.org/abs/2512.02901">Fairy2i: Training Complex LLMs from Real LLMs with All Parameters in {±1, ±i}</a></strong></p>
-      <p class="publication-meta">Feiyu Wang, <strong>Xinyu Tan</strong>, Bokai Huang, et al.<br /><em>arXiv preprint, 2025</em></p>
+      <p class="publication-meta">Feiyu Wang, <span class="publication-author-self">Xinyu Tan</span>, Bokai Huang, et al.<br /><em>arXiv preprint, 2025</em></p>
       <p class="publication-links">
         <a href="https://arxiv.org/abs/2512.02901">arXiv</a>
         <a href="https://github.com/PKULab1806/Fairy2i-W2">Code</a>
