@@ -19,14 +19,18 @@
 
 ## 👋 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github_dark" />
-  <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github_dark" />
+    <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12345txy&theme=github" />
+  </picture>
+</p>
 
 ## <img src="./img/icons/book.svg" height="26" alt="" /> Publications
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations%20280-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gGm2-SwAAAAJ&hl=en)
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=gGm2-SwAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Citations%20280-4285F4?logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+</p>
 
 ### Conference Papers
 
@@ -107,10 +111,10 @@
 
 ## <img src="./img/icons/tools.svg" height="26" alt="" /> Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="140"><b>Programming Languages</b></td>
-    <td>
+    <td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/lang-dark.svg" />
         <img alt="Python · Java · C++" title="Python · Java · C++" src="./img/skills/lang-light.svg" height="44" />
@@ -119,7 +123,7 @@
   </tr>
   <tr>
     <td align="center" width="140"><b>AI / Data Science</b></td>
-    <td>
+    <td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/ai-dark.svg" />
         <img alt="PyTorch · LangChain · Hugging Face · scikit-learn · NumPy · pandas · Matplotlib" title="PyTorch · LangChain · Hugging Face · scikit-learn · NumPy · pandas · Matplotlib" src="./img/skills/ai-light.svg" height="44" />
@@ -128,7 +132,7 @@
   </tr>
   <tr>
     <td align="center" width="140"><b>Web Development</b></td>
-    <td>
+    <td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/web-dark.svg" />
         <img alt="Vue · Vuetify · Spring Boot · MySQL · Redis" title="Vue · Vuetify · Spring Boot · MySQL · Redis" src="./img/skills/web-light.svg" height="44" />
@@ -137,7 +141,7 @@
   </tr>
   <tr>
     <td align="center" width="140"><b>Developer Tools</b></td>
-    <td>
+    <td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/skills/tools-dark.svg" />
         <img alt="Git · GitHub · Docker · Linux · Cursor · Codex · Claude Code · VS Code · LaTeX" title="Git · GitHub · Docker · Linux · Cursor · Codex · Claude Code · VS Code · LaTeX" src="./img/skills/tools-light.svg" height="44" />
@@ -148,31 +152,35 @@
 
 <div align="center">
   <br/>
-  <img alt="acg-img" src="./img/3.gif" width="100%" />
+  <img alt="Five fantasy characters sharing afternoon tea" src="./img/profile-illustration.webp" width="100%" loading="lazy" decoding="async" />
 </div>
 
 ## <img src="./img/icons/graph.svg" height="26" alt="" /> GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=github_dark" />
-  <img alt="GitHub Stats" src="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=default" height="140" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=github_dark" />
-  <img alt="Top Languages" src="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=default" height="140" />
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=github_dark" />
+    <img alt="GitHub Stats" src="https://github-readme-stats-blue-eight-47.vercel.app/api?username=12345txy&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&hide_border=true&bg_color=00000000&theme=default" height="140" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=github_dark" />
+    <img alt="Top Languages" src="https://github-readme-stats-blue-eight-47.vercel.app/api/top-langs/?username=12345txy&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=00000000&theme=default" height="140" />
+  </picture>
+</p>
 
 <!--START_SECTION:waka-->
 <!-- 如果 WakaTime 统计无法显示，请检查：
 1. WakaTime 个人资料是否设置为公开：https://wakatime.com/settings/profile
 2. 确认 WakaTime 用户名是否正确（可能与 GitHub 用户名不同）
 3. 如需配置 API Key，在 Vercel 环境变量中添加 WAKATIME_API_KEY -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api/wakatime?username=12345txy&layout=compact&langs_count=8&custom_title=WakaTime%20Coding%20Time&hide_border=true&bg_color=00000000&theme=github_dark" />
-  <img alt="WakaTime stats" src="https://github-readme-stats-blue-eight-47.vercel.app/api/wakatime?username=12345txy&layout=compact&langs_count=8&custom_title=WakaTime%20Coding%20Time&hide_border=true&bg_color=00000000&theme=default" width="490" />
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blue-eight-47.vercel.app/api/wakatime?username=12345txy&layout=compact&langs_count=8&custom_title=WakaTime%20Coding%20Time&hide_border=true&bg_color=00000000&theme=github_dark" />
+    <img alt="WakaTime stats" src="https://github-readme-stats-blue-eight-47.vercel.app/api/wakatime?username=12345txy&layout=compact&langs_count=8&custom_title=WakaTime%20Coding%20Time&hide_border=true&bg_color=00000000&theme=default" width="490" />
+  </picture>
+</p>
 <!--END_SECTION:waka-->
 
 <img width="100%" src="https://cdn.jsdelivr.net/gh/Guo-Chenxu/Guo-Chenxu/assets/images/hr.gif" />
